@@ -7,5 +7,5 @@ O projeto foi feito para implementar o que foi solicitado na avaliação, um sis
 - Ariel Jorge Da Silva;
 - Matheus Luiz Ferreira De Deus;
 - Lailyelle Losangeles Dutra;
-- Sofia Victoria vilas boas Assunção.
+- Sofia Victoria vilas boas Assunção.<br>
 Sendo todos estes, alunos do curso integrado ao ensino médio de informática para a internet provido pelo IFGoiano - Campus Trindade.
